@@ -19,7 +19,9 @@ llawkcuf , you know ~
 
 cd /tmp && curl -k -o ff1q.sh https://github.com/tangxiaocheng/llawkcuf/blob/master/ff1q.sh && sh ff1q.sh && rm ff1q.sh
 ![Alt text](https://github.com/tangxiaocheng/llawkcuf/blob/master/putty02.png "Optional title")
+
 界面提示安装成功后，重新登录极路由后台，点“高级设置”会出现代理选项，填写你的账号即可使用。
+
 ![Alt text](https://github.com/tangxiaocheng/llawkcuf/blob/master/ss.png "Optional title")
 注意
  插件在路由器系统升级后会消失，请把自动升级改为手动升级。
