@@ -16,7 +16,8 @@ llawkcuf , you know ~
 
 复制下面命令输入，按回车键
 
-1	cd /tmp && curl -k -o ff1q.sh https://github.com/tangxiaocheng/llawkcuf/blob/master/ff1q.sh && sh ff1q.sh && rm ff1q.sh
+cd /tmp && curl -k -o ff1q.sh https://github.com/tangxiaocheng/llawkcuf/blob/master/ff1q.sh && sh ff1q.sh && rm ff1q.sh
+
 界面提示安装成功后，重新登录极路由后台，点“高级设置”会出现代理选项，填写你的账号即可使用。
 
 注意
