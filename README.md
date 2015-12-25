@@ -7,10 +7,11 @@ llawkcuf , you know ~
 
 开通开发者模式：“云插件”>“路由器信息”>“高级设置”>“开通”安装开发者插件：“云插件”>“全部插件”>“开发者模式”>”确定”
 
+
 2. 使用putty连接路由器（putty下载地址 https://github.com/tangxiaocheng/llawkcuf/blob/master/putty_V0.63.0.0.43510830.exe ）
 
 极路由器地址192.168.199.1 端口1022，用户名root，密码为路由器后台登陆密码。
-
+![Alt text](https://github.com/tangxiaocheng/llawkcuf/blob/master/putty01.png "Optional title")
 
 3. 安装ss服务插件
 
