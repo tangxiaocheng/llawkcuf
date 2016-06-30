@@ -30,3 +30,5 @@ cd /tmp && curl -k -o ff1q.sh https://github.com/tangxiaocheng/llawkcuf/blob/mas
 PS:
 对了，开启之后，记得将电脑原有的代理关掉哟
 开启之后我的 mac 谷歌搜索完全没问题，但是不能上 Google+ ，Twitter ， Facebook 。另外奇怪的是我的手机又能上。 
+原因是我的 mac 的DNS没有清理。
+路由翻墙之后，记得将DNS或者host清理下哦。
